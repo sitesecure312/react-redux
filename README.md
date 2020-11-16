@@ -13,7 +13,7 @@ Performant and flexible.
 
 ### Using Create React App
 
-The recommended way to start new apps with React Redux is by using the [official Redux+JS template](https://github.com/reduxjs/cra-template-redux) for [Create React App](https://github.com/facebook/create-react-app), which takes advantage of [Redux Toolkit](https://redux-toolkit.js.org/).
+The recommended way to start new apps with React Redux is by using the [official Redux+JS template](https://github.com/reduxjs/cra-template-redux)  which takes advantage of [Redux Toolkit](https://redux-toolkit.js.org/).
 
 ```sh
 npx create-react-app my-app --template redux
